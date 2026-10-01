@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1976D2&height=180&section=header&text=Kashif%20Mashi&fontSize=50&fontColor=ffffff&desc=Cybersecurity%20%7C%20Blue%20Team%20%26%20SOC%20%7C%20Linux%20%26%20Networking&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app /api?type=waving&color=0:0D1B2A,100:1976D2&height=180&section=header&text=Kashif%20Mashi&fontSize=50&fontColor=ffffff&desc=Cybersecurity%20%7C%20Blue%20Team%20%26%20SOC%20%7C%20Linux%20%26%20Networking&descAlignY=65&descSize=18" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashif-masih-security/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kashifmashi.sec/)
