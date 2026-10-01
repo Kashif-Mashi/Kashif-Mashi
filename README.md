@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Kashif 👋
 
-<!--
-**Kashif-Mashi/Kashif-Mashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSIT student at University of Sargodha, building toward a career in
+cybersecurity and SOC operations.
 
-Here are some ideas to get you started:
+- 🔐 Currently focused on: Linux, networking, Blue Team/SOC fundamentals
+- 🏴 Organized and hardened a Boot2Root VM for a live university CTF (Spark Expo)
+- 📘 Writing the **Blue Team Handbook**, an open-source SOC and blue-team guide
+- 🛡️ Building **CyberShield**, an interactive attack/SOC monitoring platform
+- 📫 Reach me: kashifkhanamv0@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/kashif-masih-security/) ·
+[Instagram](https://www.instagram.com/kashifmashi.sec/)
