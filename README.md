@@ -1,7 +1,14 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app /api?type=waving&color=0:0D1B2A,100:1976D2&height=180&section=header&text=Kashif%20Mashi&fontSize=50&fontColor=ffffff&desc=Cybersecurity%20%7C%20Blue%20Team%20%26%20SOC%20%7C%20Linux%20%26%20Networking&descAlignY=65&descSize=18" width="100%"/>
+# Kashif Mashi
+
+**Cybersecurity | Blue Team & SOC Fundamentals | Linux & Networking**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashif-masih-security/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kashifmashi.sec/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kashifkhanamv0@gmail.com)
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashif-masih-security/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kashifmashi.sec/)
@@ -97,11 +104,7 @@ Full-stack learning management system with course modules and progress tracking.
 ---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashif-masih-security/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kashifmashi.sec/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kashifkhanamv0@gmail.com)
-
+  
 *Learning in public — one lab, one CTF, one write-up at a time.*
 
 </div>
