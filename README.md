@@ -87,6 +87,10 @@ Full-stack learning management system with course modules and progress tracking.
 
 ### 📊 GitHub Activity
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn nightly from my GitHub activity" />
+</p>
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kashif-Mashi&show_icons=true&theme=dark&hide_title=true&hide_border=true)
