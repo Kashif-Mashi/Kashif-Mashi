@@ -92,14 +92,13 @@ Full-stack learning management system with course modules and progress tracking.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kashif-Mashi">
-    <img src="https://streak-stats.demolab.com?user=Kashif-Mashi&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Kashif-Mashi&theme=dark&hide_border=true&tz=Asia/Karachi" alt="GitHub Streak" />
 </p>
+
 ---
 
 <div align="center">
-  
+
 *Learning in public — one lab, one CTF, one write-up at a time.*
 
 </div>
