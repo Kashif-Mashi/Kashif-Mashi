@@ -88,10 +88,6 @@ Full-stack learning management system with course modules and progress tracking.
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="koi/koi.gif" width="480" alt="My koi, redrawn nightly from my GitHub activity" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Kashif-Mashi&theme=dark&hide_border=true&tz=Asia/Karachi" alt="GitHub Streak" />
 </p>
 
